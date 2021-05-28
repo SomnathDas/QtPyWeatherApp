@@ -7,7 +7,7 @@
 </div><br/>
 <br/>
 
-*Make sure you have `PyQT5`, `Pyuic5`, `aiohttp-3.7.4.post0`, `request`, `` installed in your system before using this*
+*Make sure you have `PyQT5`, `Pyuic5`, `aiohttp-3.7.4.post0`, `request` installed in your system before using this*
 
 # Install some required packages
 Paste the command in the terminal or powershell
