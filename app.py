@@ -226,12 +226,14 @@ class WeatherApp(QtWidgets.QMainWindow, mainUi.Ui_MainWindow):
 		maxCelsius = self.kelvinToCelsius(maxTemp);
 		minCelsius = self.kelvinToCelsius(minTemp);
 		currentCelsius = self.kelvinToCelsius(currentTemp);
+		feelsLikeCelsius = self.kelvinToCelsius(feelsLikeTemp);
 
 		self.currentTemp.setText(str(currentCelsius)+" °C");
 		self.currentTemp.setStyleSheet('font-family: Mono')
 		self.tempMax.setText(str(maxCelsius)+" °C");
 		self.tempMin.setText(str(minCelsius)+" °C");
-		self.feelsLike.setText(str(feelsLikeTemp));
+		self.feelsLike.setText(feelsLikeCelsius+" °C");
+		self.feelsLike.setText(
 		self.humidity.setText(str(humidity)+"%");
 		self.pressure.setText(str(pressure)+" hPa");
 		self.forecast.setText(forecast);
