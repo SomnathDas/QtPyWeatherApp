@@ -2,7 +2,7 @@
 >A Simple Demonstration of using PyQT and APIs in Python
 > 
 <div align="center">
-<a href="https://ibb.co/7yJ3799"><img src="https://i.ibb.co/s3vTLBB/Screenshot-from-2021-05-28-12-08-20.png" alt="Screenshot-from-2021-05-28-12-08-20" border="0"></a>
+<a href="https://ibb.co/0jmYS3d"><img src="https://i.ibb.co/4ZK4Gx5/Screenshot-from-2021-05-28-13-55-24.png" alt="Screenshot-from-2021-05-28-13-55-24" border="0"></a>
 <a href="https://ibb.co/3rTYY7J"><img src="https://i.ibb.co/Rvg4495/Screenshot-from-2021-05-28-12-09-15.png" alt="Screenshot-from-2021-05-28-12-09-15" border="0"></a>
 </div><br/>
 <br/>
